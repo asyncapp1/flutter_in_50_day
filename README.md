@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Week 1
+## Week 1 (Dart's object-oriented programming (OOP))
 
 
 - ## Day 1: Introduction to OOP✅
@@ -43,7 +43,7 @@ A new Flutter project.
 
 - ## Day 7
 
-## Week 2
+## Week 2 (Basics)
 
 
 - ## Day 8: Flutter Project Structure
@@ -84,7 +84,7 @@ A new Flutter project.
 
 - ## Day 14
 
-## Week 3
+## Week 3 ("Widgets" Flutter's core building blocks)
 
 - ## Day 15: Widget Hierarchy
 
@@ -119,6 +119,73 @@ A new Flutter project.
 - Understand how to navigate between different screens or pages within your app.
 
 - ## Day 21:
+
+## Week 4 (Advanced UI design concepts and responsiveness)
+
+- ## Day 22: Responsive UI Design
+
+- Begin with an understanding of responsive design principles in Flutter.
+- Learn about media queries and how to create responsive layouts that adapt to different screen sizes and orientations.
+- Experiment with different layout strategies for building responsive UIs.
+
+- ## Day 23: Custom Widgets and Theming
+
+- Explore the creation of custom widgets to build unique and complex UI components.
+- Understand how to implement theming in your Flutter app, allowing for consistent styling and branding.
+- Experiment with building a custom theme for your app.
+
+- ## Day 24: Animations and Transitions
+
+- Learn about animation in Flutter and how to create smooth transitions and effects.
+- Study the Animation and Tween classes for creating animations.
+- Practice creating animated UI elements or transitions in your app.
+
+- ## Day 25: Internationalization and Localization
+
+- Understand the importance of internationalization and localization in app development.
+- Explore how to make your app accessible to users in different languages and regions.
+- Implement localization for your app using the intl package or Flutter's intl library.
+
+- ## Day 26: Custom Paint and Canvas
+
+- into custom drawing using the CustomPaint widget and the Canvas API.
+- Learn how to create custom shapes, graphics, and charts in your app.
+- Experiment with creating a custom drawing or visualization within your app.
+
+- ## Day 27 and 28: Assignments
+
+## Week 5 (BLoC (Business Logic Component))
+
+- ## Day 29: Introduction to State Management
+
+- Begin by understanding the importance of state management in Flutter.
+- Learn the basics of why state management is necessary for building complex applications.
+
+- ## Day 30: The BLoC Pattern
+
+- Dive into the BLoC (Business Logic Component) pattern.
+- Understand how BLoCs separate the business logic from the UI.
+- Study the core components of BLoC: Stream, Sink, and StreamController.
+
+- ## Day 31: Implementing a Simple BLoC
+
+- Create a simple Flutter project and set up a BLoC for basic state management.
+- Build a BLoC that handles a counter or a simple data model.
+- Connect the BLoC to your UI to display and update data.
+
+- ## Day 32: Advanced BLoC Concepts
+
+- Explore more advanced BLoC concepts like using rxdart for creating complex streams.
+- Understand how to handle asynchronous operations with BLoC.
+- Study the concept of "injecting" BLoCs into your app using a dependency injection framework.
+
+- ## Day 33: Using Packages and Advanced Features
+
+- Learn about popular state management packages like flutter_bloc or bloc.
+- Understand how to handle more complex use cases, such as managing form data or handling network requests.
+- Explore additional BLoC features like state transformation and error handling.
+
+- ## Day 34 and 35: Assignments
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
