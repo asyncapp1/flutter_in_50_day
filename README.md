@@ -84,6 +84,41 @@ A new Flutter project.
 
 - ## Day 14
 
+## Week 3
+
+- ## Day 15: Widget Hierarchy
+
+- Begin by understanding the widget tree and how widgets are nested to create your app's UI.
+- Learn about the widget hierarchy, with the root widget typically being MaterialApp or CupertinoApp.
+- Explore how widgets can be composed to build complex UIs.
+
+- ## Day 16: Container and Layout Widgets
+
+- Study the Container widget and its properties for defining padding, margins, and decoration.
+- Explore layout widgets like Row, Column, Expanded, and Stack for arranging widgets in your UI.
+
+- ## Day 17: Text and Styling Widgets
+
+- Dive into text widgets like Text and RichText.
+- Understand how to style text using the TextStyle widget and manage text alignment and overflow.
+
+- ## Day 18: Input and Interaction Widgets
+
+- Learn about input widgets such as TextField, Button, and IconButton.
+- Understand how to capture and handle user input.
+- Explore gesture detectors for recognizing user gestures like tapping, swiping, and pinching.
+
+- ## Day 19: Scrollable Widgets
+
+- Study scrollable widgets like ListView, GridView, and SingleChildScrollView.
+- Learn how to create scrollable lists and grids for displaying dynamic content.
+
+- ## Day 20: Navigation and Routing Widgets
+
+- Explore navigation widgets like Navigator, MaterialPageRoute, and CupertinoPageRoute.
+- Understand how to navigate between different screens or pages within your app.
+
+- ## Day 21:
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
