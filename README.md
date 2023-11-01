@@ -1,11 +1,11 @@
-# seven_weeks
+# 50 Day App development roadmap (Flutter)📌
 
-A new Flutter project.
+subscribe [asyncapp](https://www.youtube.com/@asyncapp) 🚀
 
-## Week 1 (Dart's object-oriented programming (OOP))
+## 📌Week 1 (Dart's object-oriented programming (OOP))
 
 
-- ## Day 1: Introduction to OOP✅
+- ## Day 1: Introduction to OOP
 
 - Start by understanding what Object-Oriented Programming (OOP) is.
 - Learn the core principles of OOP: encapsulation, inheritance, and polymorphism.
@@ -43,7 +43,7 @@ A new Flutter project.
 
 - ## Day 7
 
-## Week 2 (Basics)
+## 📌Week 2 (Basics)
 
 
 - ## Day 8: Flutter Project Structure
@@ -84,7 +84,7 @@ A new Flutter project.
 
 - ## Day 14
 
-## Week 3 ("Widgets" Flutter's core building blocks)
+## 📌Week 3 ("Widgets" Flutter's core building blocks)
 
 - ## Day 15: Widget Hierarchy
 
@@ -120,7 +120,7 @@ A new Flutter project.
 
 - ## Day 21:
 
-## Week 4 (Advanced UI design concepts and responsiveness)
+## 📌Week 4 (Advanced UI design concepts and responsiveness)
 
 - ## Day 22: Responsive UI Design
 
@@ -154,7 +154,7 @@ A new Flutter project.
 
 - ## Day 27 and 28: Assignments
 
-## Week 5 (BLoC (Business Logic Component))
+## 📌Week 5 (BLoC (Business Logic Component))
 
 - ## Day 29: Introduction to State Management
 
@@ -187,7 +187,7 @@ A new Flutter project.
 
 - ## Day 34 and 35: Assignments 
 
-## Week 6 (How to integrate packages)
+## 📌Week 6 (How to integrate packages)
 
 - ## Day 36: Network Requests with http Package
 
@@ -221,7 +221,7 @@ A new Flutter project.
 
 - ## Day 41 and 42: Assignments
 
-## Week 7
+## 📌Week 7
 
 - ## Day 43: Testing and Debugging
 - Learn about the importance of testing in Flutter and how to write unit tests.
@@ -234,5 +234,5 @@ A new Flutter project.
 - # Remaining 6 days for secret project 🎁 
 
 For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
+[youtube chanel](https://www.youtube.com/@asyncapp), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
