@@ -5,7 +5,7 @@ A new Flutter project.
 ## Week 1
 
 
-- ## Day 1: Introduction to OOP
+- ## Day 1: Introduction to OOP✅
 
 - Start by understanding what Object-Oriented Programming (OOP) is.
 - Learn the core principles of OOP: encapsulation, inheritance, and polymorphism.
