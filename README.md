@@ -235,4 +235,4 @@
 
 For help getting started with Flutter development, view the
 [youtube chanel](https://www.youtube.com/@asyncapp), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+samples, guidance on mobile development .
