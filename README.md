@@ -41,48 +41,48 @@ A new Flutter project.
 - Understand how interfaces and abstract classes provide a contract for classes that implement them.
 - Learn how to create and implement interfaces and abstract classes in Dart.
 
-
+- ## Day 7
 
 ## Week 2
 
 
-- ## Day 1: Flutter Project Structure
+- ## Day 8: Flutter Project Structure
 
 - Start by creating a new Flutter project using your preferred IDE (e.g., Android Studio, Visual Studio Code).
 - Explore the project structure, including folders like lib, android, ios, and files like pubspec.yaml.
 
-- ## Day 2: The lib Directory
+- ## Day 9: The lib Directory
 
 - Learn about the lib directory, which is where you'll write most of your Flutter code.
 - Understand the purpose of the main.dart file, which serves as the entry point of your app.
 - Explore how to organize your code in multiple files within the lib directory.
 
-- ## Day 3: pubspec.yaml and Packages
+- ## Day 10: pubspec.yaml and Packages
 
 - Study the pubspec.yaml file, which is used to manage dependencies and metadata for your Flutter project.
 - Learn how to specify dependencies for packages you want to use in your app.
 - Use pub get to fetch and install the packages defined in pubspec.yaml from Pub.dev.
 
-- ## Day 4: Introduction to Widgets
+- ## Day 11: Introduction to Widgets
 
 - Dive into Flutter's core concept: widgets.
 - Understand the distinction between stateless widgets and stateful widgets.
 - Explore some basic built-in widgets like Text, Image, and Container.
 
-- ## Day 5: Building UI with Widgets
+- ## Day 12: Building UI with Widgets
 
 - Start building your user interface using widgets.
 - Create a simple Flutter app with a basic layout structure.
 - Experiment with widgets like Row, Column, and ListView to arrange your UI.
 
-- ## Day 6: Managing State
+- ## Day 13: Managing State
 
 - Learn about state management in Flutter.
 - Understand how state is managed in stateful widgets.
 - Explore the setState method for updating the UI in response to changes in state.
 
 
-
+- ## Day 14
 
 
 For help getting started with Flutter development, view the
