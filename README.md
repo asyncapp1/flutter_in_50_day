@@ -29,13 +29,13 @@ A new Flutter project.
 - Create child classes that inherit properties and methods from parent classes.
 - Understand the use of the extends keyword.
 
-- ### Day 5: Polymorphism
+- ### **Day 5: Polymorphism**
 
 - Learn about polymorphism and its importance in OOP.
 - Understand how Dart supports polymorphism through method overriding.
 - Practice creating subclasses with overridden methods.
 
-- ### Day 6: Interfaces and Abstract Classes
+- ### **Day 6: Interfaces and Abstract Classes**
 
 - Explore Dart's interfaces and abstract classes.
 - Understand how interfaces and abstract classes provide a contract for classes that implement them.
