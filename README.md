@@ -2,7 +2,13 @@
 
 A new Flutter project.
 
-## Getting Started
+## Week 1
+
+- Day 2 :
+
+  This project is a starting point for a Flutter application.
+  A few resources to get you started if this is your first Flutter project:
+
 
 This project is a starting point for a Flutter application.
 
