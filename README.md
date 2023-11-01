@@ -69,7 +69,7 @@ A new Flutter project.
 - Understand the distinction between stateless widgets and stateful widgets.
 - Explore some basic built-in widgets like Text, Image, and Container.
 
-- - ## Day 5: Building UI with Widgets
+- ## Day 5: Building UI with Widgets
 
 - Start building your user interface using widgets.
 - Create a simple Flutter app with a basic layout structure.
