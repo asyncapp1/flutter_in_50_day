@@ -189,37 +189,49 @@ A new Flutter project.
 
 ## Week 6 (How to integrate packages)
 
-- ## Day 1: Network Requests with http Package
+- ## Day 36: Network Requests with http Package
 
 - Begin by understanding how to make HTTP requests in Flutter using the http package.
 - Learn how to perform GET, POST, PUT, and DELETE requests.
 - Explore error handling when dealing with network requests.
 
-- ## Day 2: Integrating http with BLoC
+- ## Day 37: Integrating http with BLoC
 
 - Study how to integrate the http package into your BLoC for fetching and managing data from an API.
 - Implement BLoC methods to fetch data and handle errors.
 - Explore state management with BLoC for network requests.
 
-- ## Day 3: Local Storage with shared_preferences
+- ## Day 38: Local Storage with shared_preferences
 
 - Learn how to use the shared_preferences package for simple key-value data storage in Flutter.
 - Explore how to save and retrieve data locally, such as user preferences.
 - Understand error handling when working with local storage.
 
-- ## Day 4: Local Storage with Hive
+- ## Day 39: Local Storage with Hive
 
 - Dive into Hive, a NoSQL database that offers fast and efficient local storage for Flutter apps.
 - Learn how to create and manage data models and boxes using Hive.
 - Understand error handling in Hive and how to handle database-related exceptions.
 
-- ## Day 5: Error Handling and Exceptions
+- ## Day 40: Error Handling and Exceptions
 
 - Focus on best practices for error handling in Flutter applications.
 - Study how to handle network errors, exceptions, and how to display meaningful error messages to the user.
 - Explore different approaches for managing errors in Flutter, such as using try-catch blocks and custom error classes.
 
-- ## Day 6 and 7: Assignments
+- ## Day 41 and 42: Assignments
+
+## Week 7
+
+- ## Day 43: Testing and Debugging
+- Learn about the importance of testing in Flutter and how to write unit tests.
+- Explore debugging tools and techniques available in Flutter, such as the Dart DevTools and the Flutter Inspector.
+- 
+- ## Day 44: Flutter Best Practices and Code Quality
+- Explore best practices for writing clean, maintainable, and efficient Flutter code.
+- Learn about code quality tools like lint and how to enforce coding standards in your project.
+
+- # Remaining 6 days for secret project 🎁
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
