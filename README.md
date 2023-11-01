@@ -185,7 +185,41 @@ A new Flutter project.
 - Understand how to handle more complex use cases, such as managing form data or handling network requests.
 - Explore additional BLoC features like state transformation and error handling.
 
-- ## Day 34 and 35: Assignments
+- ## Day 34 and 35: Assignments 
+
+## Week 6 (How to integrate packages)
+
+- ## Day 1: Network Requests with http Package
+
+- Begin by understanding how to make HTTP requests in Flutter using the http package.
+- Learn how to perform GET, POST, PUT, and DELETE requests.
+- Explore error handling when dealing with network requests.
+
+- ## Day 2: Integrating http with BLoC
+
+- Study how to integrate the http package into your BLoC for fetching and managing data from an API.
+- Implement BLoC methods to fetch data and handle errors.
+- Explore state management with BLoC for network requests.
+
+- ## Day 3: Local Storage with shared_preferences
+
+- Learn how to use the shared_preferences package for simple key-value data storage in Flutter.
+- Explore how to save and retrieve data locally, such as user preferences.
+- Understand error handling when working with local storage.
+
+- ## Day 4: Local Storage with Hive
+
+- Dive into Hive, a NoSQL database that offers fast and efficient local storage for Flutter apps.
+- Learn how to create and manage data models and boxes using Hive.
+- Understand error handling in Hive and how to handle database-related exceptions.
+
+- ## Day 5: Error Handling and Exceptions
+
+- Focus on best practices for error handling in Flutter applications.
+- Study how to handle network errors, exceptions, and how to display meaningful error messages to the user.
+- Explore different approaches for managing errors in Flutter, such as using try-catch blocks and custom error classes.
+
+- ## Day 6 and 7: Assignments
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
