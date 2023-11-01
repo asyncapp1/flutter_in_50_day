@@ -231,7 +231,7 @@ A new Flutter project.
 - Explore best practices for writing clean, maintainable, and efficient Flutter code.
 - Learn about code quality tools like lint and how to enforce coding standards in your project.
 
-- # Remaining 6 days for secret project 🎁
+- # Remaining 6 days for secret project 🎁 
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
