@@ -1,6 +1,7 @@
 # 50 Day App development roadmap (Flutter) 🎯
 
- **[subscribe asyncapp](https://www.youtube.com/@asyncapp)🚀** , 👈all video will come here🚨
+- **[Asyncapp's YouTube](https://www.youtube.com/@asyncapp)** , all video will come here.
+- **[Asyncapp's GitHub Rapo.](https://github.com/asyncapp1/flutter_in_50_day)** , all 7 weeks code come here.
 
 ## 📌Week 1 (Dart's object-oriented programming (OOP))
 
