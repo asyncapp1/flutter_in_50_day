@@ -5,6 +5,9 @@
 
 ## 📌Week 1 (Dart's object-oriented programming (OOP))
 
+- ## Day 0: Dart List and Map Operations Guide
+
+- All about List and Map in Dart.
 
 - ## Day 1: Introduction to OOP
 
