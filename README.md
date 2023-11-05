@@ -4,13 +4,13 @@
 <img src="https://github.com/asyncapp1/flutter_in_50_day/blob/main/assits/51.png" alt="Splash Screen"  >
 </p>
 
-- **[Asyncapp's YouTube](https://www.youtube.com/@asyncapp)** , all video will come here.
+- **[Asyncapp's YouTube](https://www.youtube.com/playlist?list=PLz-vS4Un7ZBwm1308r2HihPgFquZLhQW6)** , all video will come here.
 - **[Asyncapp's GitHub Rapo.](https://github.com/asyncapp1/flutter_in_50_day)** , all 7 weeks code come here.
 
 ## 📌Week 1 (Dart's object-oriented programming (OOP))
 
 - ## Day 0: Dart List and Map Operations Guide
-- 
+
 - [Road map 🗺️📌](https://www.youtube.com/watch?v=CG_UdpyNebI&list=PLz-vS4Un7ZBwm1308r2HihPgFquZLhQW6)
 - All about List and Map in Dart.
 
