@@ -1,9 +1,7 @@
 # 50 Day App development roadmap (Flutter) 🎯
 
 <p>
-<img src="https://raw.githubusercontent.com/navneetprajapati26/Notes/main/Output_for_GitHub/note.png" alt="Splash Screen" width = "250" >
-<img src="https://raw.githubusercontent.com/navneetprajapati26/Notes/main/Output_for_GitHub/Home.png" alt="Home Hcreen" width = "250">
-<img src="https://raw.githubusercontent.com/navneetprajapati26/Notes/main/Output_for_GitHub/write.png" alt="New Sote Screen"width = "250" >
+<img src="https://github.com/asyncapp1/flutter_in_50_day/blob/main/assits/51.png" alt="Splash Screen"  >
 </p>
 
 - **[Asyncapp's YouTube](https://www.youtube.com/@asyncapp)** , all video will come here.
