@@ -1,4 +1,4 @@
-# 50 Day App development roadmap (Flutter) 🎯(https://www.youtube.com/watch?v=CG_UdpyNebI&list=PLz-vS4Un7ZBwm1308r2HihPgFquZLhQW6)
+# [50 Day App development roadmap (Flutter)]🎯(https://www.youtube.com/watch?v=CG_UdpyNebI&list=PLz-vS4Un7ZBwm1308r2HihPgFquZLhQW6)
 
 <p>
 <img src="https://github.com/asyncapp1/flutter_in_50_day/blob/main/assits/51.png" alt="Splash Screen"  >
